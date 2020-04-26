@@ -1,2 +1,2 @@
-# Power Platform Master Class
-Student files for Power Platform Master Class by Critical Path Training
+## Building Business Solutions with PowerApps and Flow 
+This repo contains the student files for **BBSPA: Building Business Solutions with PowerApps and Flow**.
