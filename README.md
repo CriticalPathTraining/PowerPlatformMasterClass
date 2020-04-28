@@ -1,2 +1,2 @@
-## Building Business Solutions with PowerApps and Flow 
-This repo contains the student files for **BBSPA: Building Business Solutions with PowerApps and Flow**.
+## Power Platform Master Class
+This repo contains the student files for **PPMC: Power Platform Master Class**.
